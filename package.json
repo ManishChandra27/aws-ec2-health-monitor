@@ -1,0 +1,12 @@
+{
+  "name": "aws-ec2-health-monitor",
+  "version": "1.0.0",
+  "description": "Lightweight Node.js health monitor for AWS EC2, ALB, and Auto Scaling practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
